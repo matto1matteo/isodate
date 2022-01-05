@@ -1,3 +1,3 @@
-module githun.com/matto1matteo/isodate
+module github.com/matto1matteo/isodate
 
 go 1.17
